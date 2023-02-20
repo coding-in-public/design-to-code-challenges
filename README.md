@@ -11,8 +11,8 @@ Using whatever design tool you’re most comfortable with, create a simple votin
 ### Font
 - Inter: https://fonts.google.com/specimen/Inter
 - Varients:
-  - Bold 21px
-  - Regular 16px
+  - Bold 24px
+  - Regular 18px
 
 ### Colors
 - Background: #FBFBFB
@@ -23,7 +23,7 @@ Using whatever design tool you’re most comfortable with, create a simple votin
 
 ### Icons
 - https://phosphoricons.com/
-- Size: 20px by 20px
+- Size: 24px by 24px
 - Local versions included in this branch
 
 ### Keep it 💯 Challenge (extra challenge)
