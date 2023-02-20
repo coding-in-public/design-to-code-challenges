@@ -1,0 +1,84 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bkg: #fbfbfb;
+  --light: #e5e5e6;
+  --muted: #a4a5a8;
+  --text: #181a1d;
+  --accent: #4985fa;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: var(--bkg);
+  color: var(--text);
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  padding: 1.5rem;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.container {
+  display: grid;
+  gap: 24px;
+  text-align: center;
+}
+
+.text-wrapper {
+  display: grid;
+  gap: 16px;
+  place-items: center;
+}
+
+.btn-wrapper {
+  display: flex;
+  gap: 8px;
+}
+
+.btn {
+  display: grid;
+  place-items: center;
+  background-color: transparent;
+  border: 2px solid var(--light);
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: border-color 0.2s cubic-bezier(0.075, 0.82, 0.165, 1),
+    color 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:is(:hover, :focus-visible, [aria-pressed="true"]) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* utils */
+h2 {
+  font-size: 24px;
+  line-height: 1.1;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+svg {
+  pointer-events: none;
+}
+
+.muted {
+  color: var(--muted);
+}
