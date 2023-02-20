@@ -19,8 +19,7 @@ Using whatever design tool you’re most comfortable with, create a simple votin
 - Light: #E6E5E5
 - Muted: #A8A4A4
 - Text: #1D1818
-- Accent: #C84444
-- Link: #4985FA
+- Accent: #4985FA
 
 ### Icons
 - https://phosphoricons.com/
