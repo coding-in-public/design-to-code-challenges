@@ -1,9 +1,14 @@
 # Welcome to Design to Code Challenges
 
-1. Choose a challenge from the branch dropdown.
-2. Start with a *-START branch.
-3. Give it your best shot.
-4. View the accompanying video on my YouTube channel or see my attempt at the *-FINISHED branch.
+Choose a challenge from the branch dropdown. Start with a *-START branch.
+
+## Design
+- Design the component following the brief.
+- View the accompanying video on my YouTube channel or see my attempt at the *-DESIGN branch.
+
+## Code
+- Code the component following the brief.
+- View the accompanying video on my YouTube channel or see my attempt at the *-CODE branch.
 
 Happy Coding ✌️
 
