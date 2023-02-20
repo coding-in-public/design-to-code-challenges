@@ -16,9 +16,9 @@ Using whatever design tool you’re most comfortable with, create a simple votin
 
 ### Colors
 - Background: #FBFBFB
-- Light: #E6E5E5
-- Muted: #A8A4A4
-- Text: #1D1818
+- Light: #E5E5E6
+- Muted: #A4A5A8
+- Text: #181A1D
 - Accent: #4985FA
 
 ### Icons
